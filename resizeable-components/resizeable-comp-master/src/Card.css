@@ -1,0 +1,11 @@
+.card {
+    text-align: center;
+    background-color: lightgreen;
+    color: black;
+    font-family: monospace;
+    padding: 2%;
+    overflow: auto;
+    resize: both;
+    margin: 5px;
+    float: left;
+}
